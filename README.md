@@ -18,11 +18,13 @@
 #### Knowledge of :
 1. Python
 2. EDA
-3. SQL
-4. Mangodb
+3. Data Modeling
+4. Machine Learning 
 5. TensorFlow
-6. Power BI
-7. AWS
+6. SQL
+7. Power BI
+8. AWS
+
 ---
 > Reach me 📫!!!
 <br /> [<img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/manikandan-ragavan/)
