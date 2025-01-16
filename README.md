@@ -1,6 +1,6 @@
 ## Hey there 👋 ManiKandan  here!
 
-###### Computer Science Student
+ **Computer Science Student**
 
 - Recent IITM Certified Data Science professional [Oct - 2024]
 - Here is my [Credential](https://www.guvi.in/certificate?id=R7Bdq87u38j13310Q9)
