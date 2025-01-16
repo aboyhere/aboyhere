@@ -36,7 +36,7 @@
 - [ ] Completed
 - [x] Not Yet! 
 
-``Completed Proects``
+``Completed Projects``
 - [x] Youtube DataHarvest & warehousing
 - [x] Phonepe pulse data visualizing
 - [x] Airbnb analysis
