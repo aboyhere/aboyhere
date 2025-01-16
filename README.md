@@ -7,9 +7,9 @@
 - Bachelor's degree in Madras university [20 - 23]
 - Interested in ML | AI
 -  Solved 100+ problems in python
-- what i do in simple term
+- What i do in simple term
   <br />
- **Finding patterns behind the number to make a story that will improve the quality of your business**
+ **Uncovering patterns behind the numbers to reveal compelling stories within the data. My insights are designed to drive informed decisions and enhance the quality and growth of your business**
   
 ---
 
@@ -30,7 +30,14 @@ G@ immanikandan.mk@gmail.com
 
 #### Current project:  **ANN predictive analysis**
 - [] Completed
-- [x] Not Yet!
+- [x] Not Yet! 
+
+``Completed Proects``
+- [x] Youtube DataHarvest & warehousing
+- [x] Phonepe pulse data visualizing
+- [x] Airbnb analysis
+
+
 
 
 <!--
