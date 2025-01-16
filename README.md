@@ -7,7 +7,7 @@
 - Bachelor's degree in Madras university [20 - 23]
 - Interested in ML | AI
 -  Solved 100+  python problems 
-- What i do in simple term
+- What i can do in simple term
   <br />
  **Uncovering patterns behind the numbers to reveal compelling stories within the data. My insights are designed to drive informed decisions and enhance the quality and growth of your business**
   
