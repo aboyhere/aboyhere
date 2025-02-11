@@ -14,7 +14,7 @@
 ---
 #### Experience
 - Virtual internship in Accenture
-- [Certificates of Completion ]("https://drive.google.com/file/d/1vOQ6T1Y4tvOOcarW5ZVMVsGghY7qG0db/view?usp=sharing")
+- [Certificates of Completion ](https://drive.google.com/file/d/1vOQ6T1Y4tvOOcarW5ZVMVsGghY7qG0db/view?usp=sharing)
 
 #### Knowledge of :
 1. Python
