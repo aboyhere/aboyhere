@@ -1,8 +1,8 @@
 ## Hey there 👋 ManiKandan  here!
 
- **Computer Science Student**
+ **Computer Science Graduate**
 
-- Recent IITM Certified Data Science professional [Oct - 2024]
+- Recent IIT-M Certified Data Science professional [Feb 2024 to Nov 2024]
 - Here is my [Credential](https://www.guvi.in/certificate?id=R7Bdq87u38j13310Q9)
 - Bachelor's degree in Madras university [20 - 23]
 - Interested in ML | AI
