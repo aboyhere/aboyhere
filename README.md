@@ -3,7 +3,7 @@
  **Computer Science Graduate**
 
 - Recent IIT-M Certified Data Science professional [Feb 2024 to Nov 2024]
-- Here is my [Credential](https://www.guvi.in/certificate?id=R7Bdq87u38j13310Q9)
+- Here is my [Credential](https://drive.google.com/file/d/1-fvj0inwn0ZSl6OQqTLL58AFNd89ysNK/view)
 - Bachelor's degree in Madras university [20 - 23]
 - Interested in ML | AI
 -  Solved 100+  python problems 
