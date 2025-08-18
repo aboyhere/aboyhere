@@ -41,7 +41,7 @@
 - [x] Youtube DataHarvest & warehousing
 - [x] Phonepe pulse data visualizing
 - [x] Airbnb analysis
-
+- [x] Industrial Copper Modeling 
 
 
 
