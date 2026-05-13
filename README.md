@@ -33,11 +33,12 @@
  <br/> immanikandan.mk@gmail.com
  
 ---
-#### Current project:  **ANN predictive analysis**
+#### Current project:  **Brain Tumour Classification**
 - [ ] Completed
 - [x] Not Yet! 
 
 ``Completed Projects``
+- [x] Fake ob Post Predictions 
 - [x] Youtube DataHarvest & warehousing
 - [x] Phonepe pulse data visualizing
 - [x] Airbnb analysis
